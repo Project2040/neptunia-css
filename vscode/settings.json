@@ -1,0 +1,9 @@
+{
+    "gitlens.advanced.repositorySearchFolders": ["."],
+    "gitlens.advanced.repositorySearchDepth": 1,
+    "gitlens.defaultRepository": "${workspaceFolder}",
+    "phpcs.executablePath": "./vendor/bin/phpcs",
+    "phpcs.standard": "./.phpcs.xml",
+    "phpcs.enable": true,
+    "phpcs.lintOnSave": true
+}
